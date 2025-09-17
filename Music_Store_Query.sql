@@ -1,4 +1,4 @@
-/*	Question Set 1 - Easy */
+/*QUERIES*/
 
 /* Q1: Who is the senior most employee based on job title? */
 
@@ -228,3 +228,4 @@ ORDER BY 1;
 /* source: www.youtube.com/@RishabhMishraOfficial */
 
 /* Thank You :) */
+
